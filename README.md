@@ -1,0 +1,27 @@
+# resume1new<html>
+<head>
+<title>G.HASUMATHI LAKSHMI </title>
+</head>
+<body style="background-color:#F2D7D5">
+</body>
+<h2 style = "color:#4A235A"> RESUME<h2>
+<h3 style = "color:#1F618D"> G.HASUMATHI LAKSHMI<h3>
+<br><br>
+<p> EDUCATIONAL QUALIFICATION</P>
+<p style="color:#154360"> I have completed my schooling in P.S.Senior Secondary School. Currently I am pursuing my M.tech degree at Sri Sairam Engineering college.</p>
+<br>
+<p>OBJECTIVE</p>
+<p style="color:#154360"> I am an aspiring engineer who is in the process of learning new technologies and subjects.I can easily adapt myself with anybody and any situation. I am  hardworking and can complete a task within the given time frame. I have very good leadership skills and can easily communicate with others. </p>
+
+<P style="color:#154360"> Seeking a position in a company where I can launch my career and build a valuable skill set.Seeking a crucial role in an MNC where I can upgrade my skills with time and take the company to the next level   </p>
+
+<h2 style="color:#78281F">SKILLS</h2>
+<br>
+
+<ul>
+<li> C Programming</li>
+<li> python ( basics)</li>
+<li> html and css(in progress)</li>
+<li> Machine Learning(in progress)</li>
+</body>
+</html>	
